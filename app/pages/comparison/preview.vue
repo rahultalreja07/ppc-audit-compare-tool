@@ -56,7 +56,7 @@
           </div>
 
           <div v-show="active === 'distributions'">
-            <TabDistributionsTab :distributions="detail.distributions" />
+            <TabDistributionsTab :distributions="detail.distributions" :sec-filing="detail.sec_filing" :gpp-data="detail.gpp_data" :website-url="detail.website?.url ?? null" />
           </div>
 
           <div v-show="active === 'tna'">
