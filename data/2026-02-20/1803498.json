@@ -1,0 +1,1376 @@
+{
+  "fund": {
+    "name": "BlackRock Capital Allocation Term Trust",
+    "cik": "1803498",
+    "generated_at": "2026-02-20T13:45:30.198208"
+  },
+  "sec_filing": {
+    "filing_type": "8-K",
+    "filing_date": "2026-01-23",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1803498/000180349826000003/bcred-20260122.htm",
+    "accession_number": "0001803498-26-000003",
+    "extraction": {
+      "nav_date": "December\u00a031, 2025",
+      "nav_per_share": {
+        "Class I": 24.79,
+        "Class S": 24.79,
+        "Class D": 24.79
+      },
+      "total_nav": null,
+      "tna_per_class": {},
+      "tna_date": null,
+      "distribution_data": {
+        "declaration_date": "January\u00a031, 2026",
+        "record_date": "January\u00a031, 2026",
+        "payment_date": "January\u00a031, 2026",
+        "per_class": {
+          "Class I": {
+            "gross_distribution": 251.0,
+            "servicing_fee": 0.0,
+            "net_distribution": 251.0
+          },
+          "Class S": {
+            "gross_distribution": 0.2,
+            "servicing_fee": 0.0,
+            "net_distribution": 0.2
+          },
+          "Class D": {
+            "gross_distribution": 0.2,
+            "servicing_fee": 0.0,
+            "net_distribution": 0.2
+          }
+        },
+        "total_shares_issued": 667957183,
+        "shares_per_class": {
+          "Class I": 22,
+          "Class S": 0,
+          "Class D": 0
+        }
+      }
+    }
+  },
+  "website": {
+    "url": "https://www.bcred.com/overview/",
+    "share_classes": {
+      "Class I": {
+        "share_class": "Class I",
+        "extraction_timestamp": "2026-02-20T13:45:29.339703",
+        "annualized_distribution_rate": 9.7,
+        "nav_per_share": 24.68,
+        "nav_date": "January 31, 2026",
+        "historical_nav": [
+          {
+            "date": "2026",
+            "nav": 24.68
+          },
+          {
+            "date": "2025",
+            "nav": 25.42
+          },
+          {
+            "date": "2024",
+            "nav": 25.41
+          },
+          {
+            "date": "2023",
+            "nav": 24.85
+          },
+          {
+            "date": "2022",
+            "nav": 25.93
+          },
+          {
+            "date": "2021",
+            "nav": 25.25
+          },
+          {
+            "date": "2026 Dividend Distribution",
+            "nav": 0.1824
+          },
+          {
+            "date": "2025 Dividend Distribution",
+            "nav": 0.202
+          },
+          {
+            "date": "2024 Dividend Distribution",
+            "nav": 0.202
+          },
+          {
+            "date": "2023 Dividend Distribution",
+            "nav": 0.1926
+          },
+          {
+            "date": "2022 Dividend Distribution",
+            "nav": 0.1556
+          },
+          {
+            "date": "2021 Dividend Distribution",
+            "nav": 0.1008
+          },
+          {
+            "date": "2026",
+            "nav": 24.68
+          },
+          {
+            "date": "2025",
+            "nav": 25.42
+          },
+          {
+            "date": "2024",
+            "nav": 25.41
+          },
+          {
+            "date": "2023",
+            "nav": 24.85
+          },
+          {
+            "date": "2022",
+            "nav": 25.93
+          },
+          {
+            "date": "2026 Dividend Distribution",
+            "nav": 0.1948
+          },
+          {
+            "date": "2025 Dividend Distribution",
+            "nav": 0.2147
+          },
+          {
+            "date": "2024 Dividend Distribution",
+            "nav": 0.2147
+          },
+          {
+            "date": "2023 Dividend Distribution",
+            "nav": 0.2049
+          },
+          {
+            "date": "2022 Dividend Distribution",
+            "nav": 0.1686
+          },
+          {
+            "date": "2026",
+            "nav": 24.68
+          },
+          {
+            "date": "2025",
+            "nav": 25.42
+          },
+          {
+            "date": "2024",
+            "nav": 25.41
+          },
+          {
+            "date": "2023",
+            "nav": 24.85
+          },
+          {
+            "date": "2022",
+            "nav": 25.93
+          },
+          {
+            "date": "2021",
+            "nav": 25.25
+          },
+          {
+            "date": "2026 Dividend Distribution",
+            "nav": 0.2
+          },
+          {
+            "date": "2025 Dividend Distribution",
+            "nav": 0.22
+          },
+          {
+            "date": "2024 Dividend Distribution",
+            "nav": 0.22
+          },
+          {
+            "date": "2023 Dividend Distribution",
+            "nav": 0.21
+          },
+          {
+            "date": "2022 Dividend Distribution",
+            "nav": 0.174
+          },
+          {
+            "date": "2021 Dividend Distribution",
+            "nav": 0.1151
+          }
+        ],
+        "nav_history_performance": []
+      },
+      "Class S": {
+        "share_class": "Class S",
+        "extraction_timestamp": "2026-02-20T13:45:29.609392",
+        "annualized_distribution_rate": 8.9,
+        "nav_per_share": 24.68,
+        "nav_date": "January 31, 2026",
+        "historical_nav": [
+          {
+            "date": "2026",
+            "nav": 24.68
+          },
+          {
+            "date": "2025",
+            "nav": 25.42
+          },
+          {
+            "date": "2024",
+            "nav": 25.41
+          },
+          {
+            "date": "2023",
+            "nav": 24.85
+          },
+          {
+            "date": "2022",
+            "nav": 25.93
+          },
+          {
+            "date": "2021",
+            "nav": 25.25
+          },
+          {
+            "date": "2026 Dividend Distribution",
+            "nav": 0.1824
+          },
+          {
+            "date": "2025 Dividend Distribution",
+            "nav": 0.202
+          },
+          {
+            "date": "2024 Dividend Distribution",
+            "nav": 0.202
+          },
+          {
+            "date": "2023 Dividend Distribution",
+            "nav": 0.1926
+          },
+          {
+            "date": "2022 Dividend Distribution",
+            "nav": 0.1556
+          },
+          {
+            "date": "2021 Dividend Distribution",
+            "nav": 0.1008
+          },
+          {
+            "date": "2026",
+            "nav": 24.68
+          },
+          {
+            "date": "2025",
+            "nav": 25.42
+          },
+          {
+            "date": "2024",
+            "nav": 25.41
+          },
+          {
+            "date": "2023",
+            "nav": 24.85
+          },
+          {
+            "date": "2022",
+            "nav": 25.93
+          },
+          {
+            "date": "2026 Dividend Distribution",
+            "nav": 0.1948
+          },
+          {
+            "date": "2025 Dividend Distribution",
+            "nav": 0.2147
+          },
+          {
+            "date": "2024 Dividend Distribution",
+            "nav": 0.2147
+          },
+          {
+            "date": "2023 Dividend Distribution",
+            "nav": 0.2049
+          },
+          {
+            "date": "2022 Dividend Distribution",
+            "nav": 0.1686
+          },
+          {
+            "date": "2026",
+            "nav": 24.68
+          },
+          {
+            "date": "2025",
+            "nav": 25.42
+          },
+          {
+            "date": "2024",
+            "nav": 25.41
+          },
+          {
+            "date": "2023",
+            "nav": 24.85
+          },
+          {
+            "date": "2022",
+            "nav": 25.93
+          },
+          {
+            "date": "2021",
+            "nav": 25.25
+          },
+          {
+            "date": "2026 Dividend Distribution",
+            "nav": 0.2
+          },
+          {
+            "date": "2025 Dividend Distribution",
+            "nav": 0.22
+          },
+          {
+            "date": "2024 Dividend Distribution",
+            "nav": 0.22
+          },
+          {
+            "date": "2023 Dividend Distribution",
+            "nav": 0.21
+          },
+          {
+            "date": "2022 Dividend Distribution",
+            "nav": 0.174
+          },
+          {
+            "date": "2021 Dividend Distribution",
+            "nav": 0.1151
+          }
+        ],
+        "nav_history_performance": []
+      },
+      "Class D": {
+        "share_class": "Class D",
+        "extraction_timestamp": "2026-02-20T13:45:29.997176",
+        "annualized_distribution_rate": 9.5,
+        "nav_per_share": 24.68,
+        "nav_date": "January 31, 2026",
+        "historical_nav": [
+          {
+            "date": "2026",
+            "nav": 24.68
+          },
+          {
+            "date": "2025",
+            "nav": 25.42
+          },
+          {
+            "date": "2024",
+            "nav": 25.41
+          },
+          {
+            "date": "2023",
+            "nav": 24.85
+          },
+          {
+            "date": "2022",
+            "nav": 25.93
+          },
+          {
+            "date": "2021",
+            "nav": 25.25
+          },
+          {
+            "date": "2026 Dividend Distribution",
+            "nav": 0.1824
+          },
+          {
+            "date": "2025 Dividend Distribution",
+            "nav": 0.202
+          },
+          {
+            "date": "2024 Dividend Distribution",
+            "nav": 0.202
+          },
+          {
+            "date": "2023 Dividend Distribution",
+            "nav": 0.1926
+          },
+          {
+            "date": "2022 Dividend Distribution",
+            "nav": 0.1556
+          },
+          {
+            "date": "2021 Dividend Distribution",
+            "nav": 0.1008
+          },
+          {
+            "date": "2026",
+            "nav": 24.68
+          },
+          {
+            "date": "2025",
+            "nav": 25.42
+          },
+          {
+            "date": "2024",
+            "nav": 25.41
+          },
+          {
+            "date": "2023",
+            "nav": 24.85
+          },
+          {
+            "date": "2022",
+            "nav": 25.93
+          },
+          {
+            "date": "2026 Dividend Distribution",
+            "nav": 0.1948
+          },
+          {
+            "date": "2025 Dividend Distribution",
+            "nav": 0.2147
+          },
+          {
+            "date": "2024 Dividend Distribution",
+            "nav": 0.2147
+          },
+          {
+            "date": "2023 Dividend Distribution",
+            "nav": 0.2049
+          },
+          {
+            "date": "2022 Dividend Distribution",
+            "nav": 0.1686
+          },
+          {
+            "date": "2026",
+            "nav": 24.68
+          },
+          {
+            "date": "2025",
+            "nav": 25.42
+          },
+          {
+            "date": "2024",
+            "nav": 25.41
+          },
+          {
+            "date": "2023",
+            "nav": 24.85
+          },
+          {
+            "date": "2022",
+            "nav": 25.93
+          },
+          {
+            "date": "2021",
+            "nav": 25.25
+          },
+          {
+            "date": "2026 Dividend Distribution",
+            "nav": 0.2
+          },
+          {
+            "date": "2025 Dividend Distribution",
+            "nav": 0.22
+          },
+          {
+            "date": "2024 Dividend Distribution",
+            "nav": 0.22
+          },
+          {
+            "date": "2023 Dividend Distribution",
+            "nav": 0.21
+          },
+          {
+            "date": "2022 Dividend Distribution",
+            "nav": 0.174
+          },
+          {
+            "date": "2021 Dividend Distribution",
+            "nav": 0.1151
+          }
+        ],
+        "nav_history_performance": []
+      }
+    }
+  },
+  "comparison": {
+    "nav_date_sec": "December\u00a031, 2025",
+    "nav_date_website": "January 31, 2026",
+    "per_class": {
+      "Class I": {
+        "sec_nav": 24.79,
+        "website_nav": 24.68,
+        "difference": -0.10999999999999943,
+        "status": "mismatch"
+      },
+      "Class S": {
+        "sec_nav": 24.79,
+        "website_nav": 24.68,
+        "difference": -0.10999999999999943,
+        "status": "mismatch"
+      },
+      "Class D": {
+        "sec_nav": 24.79,
+        "website_nav": 24.68,
+        "difference": -0.10999999999999943,
+        "status": "mismatch"
+      }
+    }
+  },
+  "distributions": {
+    "declaration_date": "January\u00a031, 2026",
+    "record_date": "January\u00a031, 2026",
+    "payment_date": "January\u00a031, 2026",
+    "per_class": {
+      "Class I": {
+        "gross_distribution": 251.0,
+        "servicing_fee": 0.0,
+        "net_distribution": 251.0
+      },
+      "Class S": {
+        "gross_distribution": 0.2,
+        "servicing_fee": 0.0,
+        "net_distribution": 0.2
+      },
+      "Class D": {
+        "gross_distribution": 0.2,
+        "servicing_fee": 0.0,
+        "net_distribution": 0.2
+      }
+    }
+  },
+  "shares_outstanding": {
+    "total_shares_issued": 667957183,
+    "per_class": {
+      "Class I": {
+        "shares_issued": 22,
+        "percent_of_total": 3.2936242860943975e-06
+      },
+      "Class S": {
+        "shares_issued": 0,
+        "percent_of_total": 0.0
+      },
+      "Class D": {
+        "shares_issued": 0,
+        "percent_of_total": 0.0
+      }
+    }
+  },
+  "performance": {
+    "per_class": {
+      "Class I": {
+        "nav_per_share": 24.68,
+        "annualized_distribution_rate": 9.7,
+        "nav_date": "January 31, 2026",
+        "tna": null
+      },
+      "Class S": {
+        "nav_per_share": 24.68,
+        "annualized_distribution_rate": 8.9,
+        "nav_date": "January 31, 2026",
+        "tna": null
+      },
+      "Class D": {
+        "nav_per_share": 24.68,
+        "annualized_distribution_rate": 9.5,
+        "nav_date": "January 31, 2026",
+        "tna": null
+      }
+    }
+  },
+  "historical_nav": {
+    "last_3_years": [
+      {
+        "date": "2026 Dividend Distribution",
+        "share_class": "Class I",
+        "nav": 0.1824
+      },
+      {
+        "date": "2026 Dividend Distribution",
+        "share_class": "Class I",
+        "nav": 0.1948
+      },
+      {
+        "date": "2026 Dividend Distribution",
+        "share_class": "Class I",
+        "nav": 0.2
+      },
+      {
+        "date": "2026 Dividend Distribution",
+        "share_class": "Class S",
+        "nav": 0.1824
+      },
+      {
+        "date": "2026 Dividend Distribution",
+        "share_class": "Class S",
+        "nav": 0.1948
+      },
+      {
+        "date": "2026 Dividend Distribution",
+        "share_class": "Class S",
+        "nav": 0.2
+      },
+      {
+        "date": "2026 Dividend Distribution",
+        "share_class": "Class D",
+        "nav": 0.1824
+      },
+      {
+        "date": "2026 Dividend Distribution",
+        "share_class": "Class D",
+        "nav": 0.1948
+      },
+      {
+        "date": "2026 Dividend Distribution",
+        "share_class": "Class D",
+        "nav": 0.2
+      },
+      {
+        "date": "2026",
+        "share_class": "Class I",
+        "nav": 24.68
+      },
+      {
+        "date": "2026",
+        "share_class": "Class I",
+        "nav": 24.68
+      },
+      {
+        "date": "2026",
+        "share_class": "Class I",
+        "nav": 24.68
+      },
+      {
+        "date": "2026",
+        "share_class": "Class S",
+        "nav": 24.68
+      },
+      {
+        "date": "2026",
+        "share_class": "Class S",
+        "nav": 24.68
+      },
+      {
+        "date": "2026",
+        "share_class": "Class S",
+        "nav": 24.68
+      },
+      {
+        "date": "2026",
+        "share_class": "Class D",
+        "nav": 24.68
+      },
+      {
+        "date": "2026",
+        "share_class": "Class D",
+        "nav": 24.68
+      },
+      {
+        "date": "2026",
+        "share_class": "Class D",
+        "nav": 24.68
+      },
+      {
+        "date": "2025 Dividend Distribution",
+        "share_class": "Class I",
+        "nav": 0.202
+      },
+      {
+        "date": "2025 Dividend Distribution",
+        "share_class": "Class I",
+        "nav": 0.2147
+      },
+      {
+        "date": "2025 Dividend Distribution",
+        "share_class": "Class I",
+        "nav": 0.22
+      },
+      {
+        "date": "2025 Dividend Distribution",
+        "share_class": "Class S",
+        "nav": 0.202
+      },
+      {
+        "date": "2025 Dividend Distribution",
+        "share_class": "Class S",
+        "nav": 0.2147
+      },
+      {
+        "date": "2025 Dividend Distribution",
+        "share_class": "Class S",
+        "nav": 0.22
+      },
+      {
+        "date": "2025 Dividend Distribution",
+        "share_class": "Class D",
+        "nav": 0.202
+      },
+      {
+        "date": "2025 Dividend Distribution",
+        "share_class": "Class D",
+        "nav": 0.2147
+      },
+      {
+        "date": "2025 Dividend Distribution",
+        "share_class": "Class D",
+        "nav": 0.22
+      },
+      {
+        "date": "2025",
+        "share_class": "Class I",
+        "nav": 25.42
+      },
+      {
+        "date": "2025",
+        "share_class": "Class I",
+        "nav": 25.42
+      },
+      {
+        "date": "2025",
+        "share_class": "Class I",
+        "nav": 25.42
+      },
+      {
+        "date": "2025",
+        "share_class": "Class S",
+        "nav": 25.42
+      },
+      {
+        "date": "2025",
+        "share_class": "Class S",
+        "nav": 25.42
+      },
+      {
+        "date": "2025",
+        "share_class": "Class S",
+        "nav": 25.42
+      },
+      {
+        "date": "2025",
+        "share_class": "Class D",
+        "nav": 25.42
+      },
+      {
+        "date": "2025",
+        "share_class": "Class D",
+        "nav": 25.42
+      },
+      {
+        "date": "2025",
+        "share_class": "Class D",
+        "nav": 25.42
+      }
+    ],
+    "all": [
+      {
+        "date": "2026 Dividend Distribution",
+        "share_class": "Class I",
+        "nav": 0.1824
+      },
+      {
+        "date": "2026 Dividend Distribution",
+        "share_class": "Class I",
+        "nav": 0.1948
+      },
+      {
+        "date": "2026 Dividend Distribution",
+        "share_class": "Class I",
+        "nav": 0.2
+      },
+      {
+        "date": "2026 Dividend Distribution",
+        "share_class": "Class S",
+        "nav": 0.1824
+      },
+      {
+        "date": "2026 Dividend Distribution",
+        "share_class": "Class S",
+        "nav": 0.1948
+      },
+      {
+        "date": "2026 Dividend Distribution",
+        "share_class": "Class S",
+        "nav": 0.2
+      },
+      {
+        "date": "2026 Dividend Distribution",
+        "share_class": "Class D",
+        "nav": 0.1824
+      },
+      {
+        "date": "2026 Dividend Distribution",
+        "share_class": "Class D",
+        "nav": 0.1948
+      },
+      {
+        "date": "2026 Dividend Distribution",
+        "share_class": "Class D",
+        "nav": 0.2
+      },
+      {
+        "date": "2026",
+        "share_class": "Class I",
+        "nav": 24.68
+      },
+      {
+        "date": "2026",
+        "share_class": "Class I",
+        "nav": 24.68
+      },
+      {
+        "date": "2026",
+        "share_class": "Class I",
+        "nav": 24.68
+      },
+      {
+        "date": "2026",
+        "share_class": "Class S",
+        "nav": 24.68
+      },
+      {
+        "date": "2026",
+        "share_class": "Class S",
+        "nav": 24.68
+      },
+      {
+        "date": "2026",
+        "share_class": "Class S",
+        "nav": 24.68
+      },
+      {
+        "date": "2026",
+        "share_class": "Class D",
+        "nav": 24.68
+      },
+      {
+        "date": "2026",
+        "share_class": "Class D",
+        "nav": 24.68
+      },
+      {
+        "date": "2026",
+        "share_class": "Class D",
+        "nav": 24.68
+      },
+      {
+        "date": "2025 Dividend Distribution",
+        "share_class": "Class I",
+        "nav": 0.202
+      },
+      {
+        "date": "2025 Dividend Distribution",
+        "share_class": "Class I",
+        "nav": 0.2147
+      },
+      {
+        "date": "2025 Dividend Distribution",
+        "share_class": "Class I",
+        "nav": 0.22
+      },
+      {
+        "date": "2025 Dividend Distribution",
+        "share_class": "Class S",
+        "nav": 0.202
+      },
+      {
+        "date": "2025 Dividend Distribution",
+        "share_class": "Class S",
+        "nav": 0.2147
+      },
+      {
+        "date": "2025 Dividend Distribution",
+        "share_class": "Class S",
+        "nav": 0.22
+      },
+      {
+        "date": "2025 Dividend Distribution",
+        "share_class": "Class D",
+        "nav": 0.202
+      },
+      {
+        "date": "2025 Dividend Distribution",
+        "share_class": "Class D",
+        "nav": 0.2147
+      },
+      {
+        "date": "2025 Dividend Distribution",
+        "share_class": "Class D",
+        "nav": 0.22
+      },
+      {
+        "date": "2025",
+        "share_class": "Class I",
+        "nav": 25.42
+      },
+      {
+        "date": "2025",
+        "share_class": "Class I",
+        "nav": 25.42
+      },
+      {
+        "date": "2025",
+        "share_class": "Class I",
+        "nav": 25.42
+      },
+      {
+        "date": "2025",
+        "share_class": "Class S",
+        "nav": 25.42
+      },
+      {
+        "date": "2025",
+        "share_class": "Class S",
+        "nav": 25.42
+      },
+      {
+        "date": "2025",
+        "share_class": "Class S",
+        "nav": 25.42
+      },
+      {
+        "date": "2025",
+        "share_class": "Class D",
+        "nav": 25.42
+      },
+      {
+        "date": "2025",
+        "share_class": "Class D",
+        "nav": 25.42
+      },
+      {
+        "date": "2025",
+        "share_class": "Class D",
+        "nav": 25.42
+      },
+      {
+        "date": "2024 Dividend Distribution",
+        "share_class": "Class I",
+        "nav": 0.202
+      },
+      {
+        "date": "2024 Dividend Distribution",
+        "share_class": "Class I",
+        "nav": 0.2147
+      },
+      {
+        "date": "2024 Dividend Distribution",
+        "share_class": "Class I",
+        "nav": 0.22
+      },
+      {
+        "date": "2024 Dividend Distribution",
+        "share_class": "Class S",
+        "nav": 0.202
+      },
+      {
+        "date": "2024 Dividend Distribution",
+        "share_class": "Class S",
+        "nav": 0.2147
+      },
+      {
+        "date": "2024 Dividend Distribution",
+        "share_class": "Class S",
+        "nav": 0.22
+      },
+      {
+        "date": "2024 Dividend Distribution",
+        "share_class": "Class D",
+        "nav": 0.202
+      },
+      {
+        "date": "2024 Dividend Distribution",
+        "share_class": "Class D",
+        "nav": 0.2147
+      },
+      {
+        "date": "2024 Dividend Distribution",
+        "share_class": "Class D",
+        "nav": 0.22
+      },
+      {
+        "date": "2024",
+        "share_class": "Class I",
+        "nav": 25.41
+      },
+      {
+        "date": "2024",
+        "share_class": "Class I",
+        "nav": 25.41
+      },
+      {
+        "date": "2024",
+        "share_class": "Class I",
+        "nav": 25.41
+      },
+      {
+        "date": "2024",
+        "share_class": "Class S",
+        "nav": 25.41
+      },
+      {
+        "date": "2024",
+        "share_class": "Class S",
+        "nav": 25.41
+      },
+      {
+        "date": "2024",
+        "share_class": "Class S",
+        "nav": 25.41
+      },
+      {
+        "date": "2024",
+        "share_class": "Class D",
+        "nav": 25.41
+      },
+      {
+        "date": "2024",
+        "share_class": "Class D",
+        "nav": 25.41
+      },
+      {
+        "date": "2024",
+        "share_class": "Class D",
+        "nav": 25.41
+      },
+      {
+        "date": "2023 Dividend Distribution",
+        "share_class": "Class I",
+        "nav": 0.1926
+      },
+      {
+        "date": "2023 Dividend Distribution",
+        "share_class": "Class I",
+        "nav": 0.2049
+      },
+      {
+        "date": "2023 Dividend Distribution",
+        "share_class": "Class I",
+        "nav": 0.21
+      },
+      {
+        "date": "2023 Dividend Distribution",
+        "share_class": "Class S",
+        "nav": 0.1926
+      },
+      {
+        "date": "2023 Dividend Distribution",
+        "share_class": "Class S",
+        "nav": 0.2049
+      },
+      {
+        "date": "2023 Dividend Distribution",
+        "share_class": "Class S",
+        "nav": 0.21
+      },
+      {
+        "date": "2023 Dividend Distribution",
+        "share_class": "Class D",
+        "nav": 0.1926
+      },
+      {
+        "date": "2023 Dividend Distribution",
+        "share_class": "Class D",
+        "nav": 0.2049
+      },
+      {
+        "date": "2023 Dividend Distribution",
+        "share_class": "Class D",
+        "nav": 0.21
+      },
+      {
+        "date": "2023",
+        "share_class": "Class I",
+        "nav": 24.85
+      },
+      {
+        "date": "2023",
+        "share_class": "Class I",
+        "nav": 24.85
+      },
+      {
+        "date": "2023",
+        "share_class": "Class I",
+        "nav": 24.85
+      },
+      {
+        "date": "2023",
+        "share_class": "Class S",
+        "nav": 24.85
+      },
+      {
+        "date": "2023",
+        "share_class": "Class S",
+        "nav": 24.85
+      },
+      {
+        "date": "2023",
+        "share_class": "Class S",
+        "nav": 24.85
+      },
+      {
+        "date": "2023",
+        "share_class": "Class D",
+        "nav": 24.85
+      },
+      {
+        "date": "2023",
+        "share_class": "Class D",
+        "nav": 24.85
+      },
+      {
+        "date": "2023",
+        "share_class": "Class D",
+        "nav": 24.85
+      },
+      {
+        "date": "2022 Dividend Distribution",
+        "share_class": "Class I",
+        "nav": 0.1556
+      },
+      {
+        "date": "2022 Dividend Distribution",
+        "share_class": "Class I",
+        "nav": 0.1686
+      },
+      {
+        "date": "2022 Dividend Distribution",
+        "share_class": "Class I",
+        "nav": 0.174
+      },
+      {
+        "date": "2022 Dividend Distribution",
+        "share_class": "Class S",
+        "nav": 0.1556
+      },
+      {
+        "date": "2022 Dividend Distribution",
+        "share_class": "Class S",
+        "nav": 0.1686
+      },
+      {
+        "date": "2022 Dividend Distribution",
+        "share_class": "Class S",
+        "nav": 0.174
+      },
+      {
+        "date": "2022 Dividend Distribution",
+        "share_class": "Class D",
+        "nav": 0.1556
+      },
+      {
+        "date": "2022 Dividend Distribution",
+        "share_class": "Class D",
+        "nav": 0.1686
+      },
+      {
+        "date": "2022 Dividend Distribution",
+        "share_class": "Class D",
+        "nav": 0.174
+      },
+      {
+        "date": "2022",
+        "share_class": "Class I",
+        "nav": 25.93
+      },
+      {
+        "date": "2022",
+        "share_class": "Class I",
+        "nav": 25.93
+      },
+      {
+        "date": "2022",
+        "share_class": "Class I",
+        "nav": 25.93
+      },
+      {
+        "date": "2022",
+        "share_class": "Class S",
+        "nav": 25.93
+      },
+      {
+        "date": "2022",
+        "share_class": "Class S",
+        "nav": 25.93
+      },
+      {
+        "date": "2022",
+        "share_class": "Class S",
+        "nav": 25.93
+      },
+      {
+        "date": "2022",
+        "share_class": "Class D",
+        "nav": 25.93
+      },
+      {
+        "date": "2022",
+        "share_class": "Class D",
+        "nav": 25.93
+      },
+      {
+        "date": "2022",
+        "share_class": "Class D",
+        "nav": 25.93
+      },
+      {
+        "date": "2021 Dividend Distribution",
+        "share_class": "Class I",
+        "nav": 0.1008
+      },
+      {
+        "date": "2021 Dividend Distribution",
+        "share_class": "Class I",
+        "nav": 0.1151
+      },
+      {
+        "date": "2021 Dividend Distribution",
+        "share_class": "Class S",
+        "nav": 0.1008
+      },
+      {
+        "date": "2021 Dividend Distribution",
+        "share_class": "Class S",
+        "nav": 0.1151
+      },
+      {
+        "date": "2021 Dividend Distribution",
+        "share_class": "Class D",
+        "nav": 0.1008
+      },
+      {
+        "date": "2021 Dividend Distribution",
+        "share_class": "Class D",
+        "nav": 0.1151
+      },
+      {
+        "date": "2021",
+        "share_class": "Class I",
+        "nav": 25.25
+      },
+      {
+        "date": "2021",
+        "share_class": "Class I",
+        "nav": 25.25
+      },
+      {
+        "date": "2021",
+        "share_class": "Class S",
+        "nav": 25.25
+      },
+      {
+        "date": "2021",
+        "share_class": "Class S",
+        "nav": 25.25
+      },
+      {
+        "date": "2021",
+        "share_class": "Class D",
+        "nav": 25.25
+      },
+      {
+        "date": "2021",
+        "share_class": "Class D",
+        "nav": 25.25
+      }
+    ]
+  },
+  "gpp_data": {
+    "fund_name": "BlackRock Capital Allocation Term Trust",
+    "cik": "1803498",
+    "report_date": "February 20, 2026",
+    "performance_id": "0P0001UKTG",
+    "data_source": "LatestData_Nav_TNA_Dividend.xlsx",
+    "status": "ok",
+    "reason": null,
+    "sections": {
+      "Price": [
+        {
+          "date": "2025-09-30",
+          "value": 24.97
+        },
+        {
+          "date": "2025-10-31",
+          "value": 24.94
+        },
+        {
+          "date": "2025-11-30",
+          "value": 24.87
+        },
+        {
+          "date": "2025-12-31",
+          "value": 24.79
+        },
+        {
+          "date": "2026-01-31",
+          "value": 25.42
+        },
+        {
+          "date": "2026-02-03",
+          "value": null
+        }
+      ],
+      "Dividend": [
+        {
+          "date": "2025-08-31",
+          "value": 0.2148
+        },
+        {
+          "date": "2025-09-30",
+          "value": 0.2148
+        },
+        {
+          "date": "2025-10-31",
+          "value": 0.1948
+        },
+        {
+          "date": "2025-11-30",
+          "value": 0.1948
+        },
+        {
+          "date": "2025-12-31",
+          "value": 0.1948
+        },
+        {
+          "date": "2026-01-31",
+          "value": 0.1948
+        }
+      ],
+      "ClassTNA": [
+        {
+          "date": "2025-09-30",
+          "value": 608739000.0
+        },
+        {
+          "date": "2025-10-31",
+          "value": null
+        },
+        {
+          "date": "2025-11-30",
+          "value": 491000000.0
+        },
+        {
+          "date": "2025-12-31",
+          "value": 476000000.0
+        },
+        {
+          "date": "2026-01-30",
+          "value": null
+        },
+        {
+          "date": "2026-02-03",
+          "value": null
+        }
+      ]
+    },
+    "required_files": [
+      "BlackStonePeersSLF.xlsx",
+      "LatestData_Nav_TNA_Dividend.xlsx"
+    ],
+    "expected_sections": [
+      "Price",
+      "Dividend",
+      "CapitalGain",
+      "DailyDividend",
+      "ClassTNA"
+    ]
+  }
+}

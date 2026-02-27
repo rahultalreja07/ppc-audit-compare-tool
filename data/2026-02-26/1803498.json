@@ -1,0 +1,306 @@
+{
+  "fund": {
+    "name": "BlackRock Capital Allocation Term Trust",
+    "cik": "1803498",
+    "generated_at": "2026-02-26T14:42:46.519399"
+  },
+  "sec_filing": {
+    "filing_type": "8-K",
+    "filing_date": "2026-02-20",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1803498/000180349826000010/bcred-20260219.htm",
+    "accession_number": "0001803498-26-000010",
+    "extraction": {
+      "nav_date": "January\u00a031, 2026",
+      "nav_per_share": {
+        "Class I": 24.68,
+        "Class S": 24.68,
+        "Class D": 24.68
+      },
+      "total_nav": 48200000000.0,
+      "distribution_data": {
+        "declaration_date": "February\u00a028, 2026",
+        "record_date": "February\u00a028, 2026",
+        "payment_date": "March\u00a026, 2026",
+        "per_class": {
+          "Class I": {
+            "gross_distribution": 0.2,
+            "servicing_fee": 0.0,
+            "net_distribution": 0.2
+          },
+          "Class S": {
+            "gross_distribution": 0.2,
+            "servicing_fee": 0.0175,
+            "net_distribution": 0.1825
+          },
+          "Class D": {
+            "gross_distribution": 0.2,
+            "servicing_fee": 0.0051,
+            "net_distribution": 0.1949
+          }
+        },
+        "total_shares_issued": 2211193330,
+        "shares_per_class": {
+          "Class I": 1582888429,
+          "Class S": 602333935,
+          "Class D": 25970966
+        }
+      }
+    }
+  },
+  "website": {
+    "url": "https://www.bcred.com/overview/",
+    "share_classes": {
+      "Class I": {
+        "share_class": "Class I",
+        "extraction_timestamp": "2026-02-26T14:42:46.253281",
+        "annualized_distribution_rate": 9.7,
+        "nav_per_share": 24.68,
+        "nav_date": "January 31, 2026",
+        "historical_nav": [],
+        "nav_history_performance": []
+      },
+      "Class S": {
+        "share_class": "Class S",
+        "extraction_timestamp": "2026-02-26T14:42:46.354646",
+        "annualized_distribution_rate": 8.9,
+        "nav_per_share": 24.68,
+        "nav_date": "January 31, 2026",
+        "historical_nav": [],
+        "nav_history_performance": []
+      },
+      "Class D": {
+        "share_class": "Class D",
+        "extraction_timestamp": "2026-02-26T14:42:46.472312",
+        "annualized_distribution_rate": 9.5,
+        "nav_per_share": 24.68,
+        "nav_date": "January 31, 2026",
+        "historical_nav": [],
+        "nav_history_performance": []
+      }
+    }
+  },
+  "comparison": {
+    "nav_date_sec": "January\u00a031, 2026",
+    "nav_date_website": "January 31, 2026",
+    "per_class": {
+      "Class I": {
+        "sec_nav": 24.68,
+        "website_nav": 24.68,
+        "difference": 0.0,
+        "status": "match"
+      },
+      "Class S": {
+        "sec_nav": 24.68,
+        "website_nav": 24.68,
+        "difference": 0.0,
+        "status": "match"
+      },
+      "Class D": {
+        "sec_nav": 24.68,
+        "website_nav": 24.68,
+        "difference": 0.0,
+        "status": "match"
+      }
+    }
+  },
+  "distributions": {
+    "declaration_date": "February\u00a028, 2026",
+    "record_date": "February\u00a028, 2026",
+    "payment_date": "March\u00a026, 2026",
+    "per_class": {
+      "Class I": {
+        "gross_distribution": 0.2,
+        "servicing_fee": 0.0,
+        "net_distribution": 0.2
+      },
+      "Class S": {
+        "gross_distribution": 0.2,
+        "servicing_fee": 0.0175,
+        "net_distribution": 0.1825
+      },
+      "Class D": {
+        "gross_distribution": 0.2,
+        "servicing_fee": 0.0051,
+        "net_distribution": 0.1949
+      }
+    }
+  },
+  "shares_outstanding": {
+    "total_shares_issued": 2211193330,
+    "per_class": {
+      "Class I": {
+        "shares_issued": 1582888429,
+        "percent_of_total": 71.5852570430827
+      },
+      "Class S": {
+        "shares_issued": 602333935,
+        "percent_of_total": 27.24022032935492
+      },
+      "Class D": {
+        "shares_issued": 25970966,
+        "percent_of_total": 1.1745226275623761
+      }
+    }
+  },
+  "performance": {
+    "per_class": {
+      "Class I": {
+        "nav_per_share": 24.68,
+        "annualized_distribution_rate": 9.7,
+        "nav_date": "January 31, 2026",
+        "tna": null
+      },
+      "Class S": {
+        "nav_per_share": 24.68,
+        "annualized_distribution_rate": 8.9,
+        "nav_date": "January 31, 2026",
+        "tna": null
+      },
+      "Class D": {
+        "nav_per_share": 24.68,
+        "annualized_distribution_rate": 9.5,
+        "nav_date": "January 31, 2026",
+        "tna": null
+      }
+    }
+  },
+  "historical_nav": null,
+  "gpp_data": {
+    "fund_name": "BlackRock Capital Allocation Term Trust",
+    "cik": "1803498",
+    "report_date": "February 26, 2026",
+    "accession_number": "0001803498-26-000010",
+    "performance_ids_by_class": {},
+    "data_source": {
+      "combined_data": "Combined_Data.xlsx",
+      "extracted_data": "Extracted_Data.xlsx"
+    },
+    "status": "ok",
+    "reason": "",
+    "by_class": {},
+    "required_files": [
+      "Combined_Data.xlsx",
+      "Extracted_Data.xlsx"
+    ],
+    "sections": {
+      "Price": [
+        {
+          "PerformanceId": "0P0001UKT9",
+          "Date": "2026-01-31",
+          "Class I": 27.68
+        },
+        {
+          "PerformanceId": "0P0001UKTH",
+          "Date": "2026-01-31",
+          "Class S": 27.68
+        },
+        {
+          "PerformanceId": "0P0001UKTJ",
+          "Date": "2026-01-31",
+          "Class D": 27.68
+        }
+      ],
+      "Dividend": [
+        {
+          "PerformanceId": "0P0001UKT9",
+          "Date": "2026-01-31",
+          "Class I": 4.0
+        },
+        {
+          "PerformanceId": "0P0001UKTH",
+          "Date": "2026-01-31",
+          "Class S": 5.0
+        },
+        {
+          "PerformanceId": "0P0001UKTJ",
+          "Date": "2026-01-31",
+          "Class D": 6.0
+        }
+      ],
+      "CapitalGain": [
+        {
+          "PerformanceId": "0P0001UKT9",
+          "Date": "2026-01-31",
+          "Class I": 11.0
+        },
+        {
+          "PerformanceId": "0P0001UKTH",
+          "Date": "2026-01-31",
+          "Class S": 22.0
+        },
+        {
+          "PerformanceId": "0P0001UKTJ",
+          "Date": "2026-01-31",
+          "Class D": 33.0
+        }
+      ],
+      "ClassTNA": [
+        {
+          "PerformanceId": "0P0001UKT9",
+          "Date": "2026-01-31",
+          "Class I": 10600000000.0
+        },
+        {
+          "PerformanceId": "0P0001UKTH",
+          "Date": "2026-01-31",
+          "Class S": 10600000002.0
+        },
+        {
+          "PerformanceId": "0P0001UKTJ",
+          "Date": "2026-01-31",
+          "Class D": 10600000003.0
+        }
+      ],
+      "DailyDividend": [
+        {
+          "PerformanceId": "0P0001UKT9",
+          "Date": "2026-01-31",
+          "Class I": 1.0
+        },
+        {
+          "PerformanceId": "0P0001UKTH",
+          "Date": "2026-01-31",
+          "Class S": 2.0
+        },
+        {
+          "PerformanceId": "0P0001UKTJ",
+          "Date": "2026-01-31",
+          "Class D": 3.0
+        }
+      ]
+    }
+  },
+  "gpp_comparison": {
+    "gpp_latest": {
+      "Price": null,
+      "Dividend": null,
+      "ClassTNA": null
+    },
+    "nav_per_class": {
+      "Class I": {
+        "sec_nav": 24.68,
+        "website_nav": 24.68,
+        "gpp_price": null,
+        "gpp_price_date": null,
+        "sec_vs_gpp_diff": null,
+        "website_vs_gpp_diff": null
+      },
+      "Class S": {
+        "sec_nav": 24.68,
+        "website_nav": 24.68,
+        "gpp_price": null,
+        "gpp_price_date": null,
+        "sec_vs_gpp_diff": null,
+        "website_vs_gpp_diff": null
+      },
+      "Class D": {
+        "sec_nav": 24.68,
+        "website_nav": 24.68,
+        "gpp_price": null,
+        "gpp_price_date": null,
+        "sec_vs_gpp_diff": null,
+        "website_vs_gpp_diff": null
+      }
+    }
+  }
+}
