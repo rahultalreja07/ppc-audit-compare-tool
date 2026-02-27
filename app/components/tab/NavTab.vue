@@ -8,8 +8,20 @@
         <span class="ml-2 font-medium">{{ comparison.nav_date_sec ?? '—' }}</span>
       </div>
       <div class="bg-gray-50 rounded-lg p-3">
-        <span class="text-gray-500">Website NAV Date:</span>
-        <span class="ml-2 font-medium">{{ comparison.nav_date_website ?? '—' }}</span>
+        <div class="flex items-center justify-between gap-2 flex-wrap">
+          <div>
+            <span class="text-gray-500">Website NAV Date:</span>
+            <span class="ml-2 font-medium">{{ comparison.nav_date_website ?? '—' }}</span>
+          </div>
+          <a
+            v-if="websiteUrl"
+            :href="websiteUrl"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="text-xs text-teal-600 underline hover:text-teal-800 transition-colors truncate max-w-xs"
+            title="Website data source"
+          >{{ websiteUrl }}</a>
+        </div>
       </div>
     </div>
 
@@ -50,6 +62,7 @@ import type { ComparisonDetail } from '~/types/comparison'
 const props = defineProps<{
   comparison: ComparisonDetail['comparison']
   performance: ComparisonDetail['performance']
+  websiteUrl?: string | null
 }>()
 
 function fmt(v: number | null | undefined) {

@@ -40,21 +40,21 @@
 
       <!-- Tabbed detail -->
       <div class="bg-white rounded-xl border border-gray-200 p-6">
-        <BaseTabs :tabs="tabs" default-tab="matrix">
+        <BaseTabs :tabs="tabs" default-tab="nav">
           <template #default="{ active }">
-            <!-- Side-by-side comparison matrix (primary view) -->
-            <div v-show="active === 'matrix'">
-              <ComparisonMatrix :d="detail" />
-            </div>
-
             <!-- NAV Tab -->
             <div v-show="active === 'nav'">
-              <TabNavTab :comparison="detail.comparison" :performance="detail.performance" />
+              <TabNavTab :comparison="detail.comparison" :performance="detail.performance" :website-url="detail.website?.url ?? null" />
             </div>
 
             <!-- Distributions Tab -->
             <div v-show="active === 'distributions'">
               <TabDistributionsTab :distributions="detail.distributions" />
+            </div>
+
+            <!-- TNA Tab -->
+            <div v-show="active === 'tna'">
+              <TabTnaTab :sec-filing="detail.sec_filing" :gpp-data="detail.gpp_data" :performance="detail.performance" :website-url="detail.website?.url ?? null" />
             </div>
 
             <!-- Shares Tab -->
@@ -65,6 +65,11 @@
             <!-- GPP Data Tab -->
             <div v-show="active === 'gpp'">
               <TabGppTab :gpp="detail.gpp_data" />
+            </div>
+
+            <!-- Summary Tab (side-by-side comparison matrix) -->
+            <div v-show="active === 'summary'">
+              <ComparisonMatrix :d="detail" />
             </div>
           </template>
         </BaseTabs>
@@ -81,11 +86,12 @@ const cik = route.params.cik as string
 const { data: detail, pending, error } = useComparisonDetail(date, cik)
 
 const tabs = [
-  { key: 'matrix', label: '⚖️ Side-by-Side Comparison' },
   { key: 'nav', label: 'NAV Detail' },
   { key: 'distributions', label: 'Distributions' },
+  { key: 'tna', label: 'Total Net Assets' },
   { key: 'shares', label: 'Shares Outstanding' },
   { key: 'gpp', label: 'GPP Data' },
+  { key: 'summary', label: '⚖️ Summary' },
 ]
 
 // Derive overall status from comparison per_class statuses

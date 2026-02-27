@@ -67,6 +67,14 @@
                 <span class="flex items-center justify-center gap-1">
                   <span class="w-2 h-2 rounded-full bg-teal-400 inline-block" />Website
                 </span>
+                <a
+                  v-if="websiteUrl"
+                  :href="websiteUrl"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="block text-xs font-normal text-teal-500 underline hover:text-teal-700 transition-colors truncate max-w-[180px] mx-auto mt-0.5"
+                  :title="websiteUrl"
+                >{{ websiteUrl }}</a>
               </th>
               <th class="px-4 py-3 text-center font-semibold text-gray-600 w-32">Status</th>
             </tr>
@@ -122,6 +130,14 @@
               </th>
               <th class="px-4 py-3 text-center font-semibold text-teal-700 w-52">
                 <span class="flex items-center justify-center gap-1"><span class="w-2 h-2 rounded-full bg-teal-400 inline-block" />Website</span>
+                <a
+                  v-if="websiteUrl"
+                  :href="websiteUrl"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="block text-xs font-normal text-teal-500 underline hover:text-teal-700 transition-colors truncate max-w-[180px] mx-auto mt-0.5"
+                  :title="websiteUrl"
+                >{{ websiteUrl }}</a>
               </th>
               <th class="px-4 py-3 text-center font-semibold text-gray-600 w-32">Status</th>
             </tr>
@@ -243,7 +259,9 @@ function webDividend(cls: string): number | null {
 const shareClasses = computed(() => Object.keys(props.d.comparison?.per_class ?? {}))
 const activeClass = ref(shareClasses.value[0] ?? '')
 
-// ── Website extracted timestamp ───────────────────────────────────────────
+// ── Website extracted timestamp & URL ─────────────────────────────────────
+
+const websiteUrl = computed(() => props.d.website?.url ?? null)
 
 const websiteExtractedAt = computed(() => {
   const first = Object.values(props.d.website?.share_classes ?? {})[0] as { extraction_timestamp?: string | null } | undefined

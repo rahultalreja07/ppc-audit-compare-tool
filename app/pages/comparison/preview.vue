@@ -36,11 +36,11 @@
     <div class="bg-white rounded-xl border border-gray-200 p-6">
       <div class="flex flex-wrap items-start justify-between gap-4">
         <div>
-          <h1 class="text-xl font-bold text-gray-900">{{ detail.fund.name }}</h1>
+          <h1 class="text-xl font-bold text-gray-900">{{ detail.fund?.name ?? '—' }}</h1>
           <p class="mt-1 text-sm text-gray-500">
-            CIK: <span class="font-mono text-gray-700">{{ detail.fund.cik }}</span>
+            CIK: <span class="font-mono text-gray-700">{{ detail.fund?.cik ?? '—' }}</span>
             &nbsp;·&nbsp;
-            Generated: {{ fmtTs(detail.fund.generated_at) }}
+            Generated: {{ fmtTs(detail.fund?.generated_at) }}
           </p>
         </div>
         <StatusBadge :status="overallStatus" class="text-sm px-3 py-1" />
@@ -49,18 +49,18 @@
 
     <!-- Tabbed detail -->
     <div class="bg-white rounded-xl border border-gray-200 p-6">
-      <BaseTabs :tabs="tabs" default-tab="matrix">
+      <BaseTabs :tabs="tabs" default-tab="nav">
         <template #default="{ active }">
-          <div v-show="active === 'matrix'">
-            <ComparisonMatrix :d="detail" />
-          </div>
-
           <div v-show="active === 'nav'">
-            <TabNavTab :comparison="detail.comparison" :performance="detail.performance" />
+            <TabNavTab :comparison="detail.comparison" :performance="detail.performance" :website-url="detail.website?.url ?? null" />
           </div>
 
           <div v-show="active === 'distributions'">
             <TabDistributionsTab :distributions="detail.distributions" />
+          </div>
+
+          <div v-show="active === 'tna'">
+            <TabTnaTab :sec-filing="detail.sec_filing" :gpp-data="detail.gpp_data" :performance="detail.performance" :website-url="detail.website?.url ?? null" />
           </div>
 
           <div v-show="active === 'shares'">
@@ -69,6 +69,10 @@
 
           <div v-show="active === 'gpp'">
             <TabGppTab :gpp="detail.gpp_data" />
+          </div>
+
+          <div v-show="active === 'summary'">
+            <ComparisonMatrix :d="detail" />
           </div>
         </template>
       </BaseTabs>
@@ -90,11 +94,12 @@ if (!uploadedComparison.value) {
 const detail = uploadedComparison.value as ComparisonDetail
 
 const tabs = [
-  { key: 'matrix', label: '⚖️ Side-by-Side Comparison' },
   { key: 'nav', label: 'NAV Detail' },
   { key: 'distributions', label: 'Distributions' },
+  { key: 'tna', label: 'Total Net Assets' },
   { key: 'shares', label: 'Shares Outstanding' },
   { key: 'gpp', label: 'GPP Data' },
+  { key: 'summary', label: '⚖️ Summary' },
 ]
 
 const overallStatus = computed(() => {
