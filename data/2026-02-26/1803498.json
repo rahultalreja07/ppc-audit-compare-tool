@@ -184,89 +184,89 @@
     ],
     "sections": {
       "Price": [
-        {
-          "PerformanceId": "0P0001UKT9",
-          "Date": "2026-01-31",
-          "Class I": 27.68
-        },
-        {
-          "PerformanceId": "0P0001UKTH",
-          "Date": "2026-01-31",
-          "Class S": 27.68
-        },
-        {
-          "PerformanceId": "0P0001UKTJ",
-          "Date": "2026-01-31",
-          "Class D": 27.68
-        }
+        { "PerformanceId": "0P0001UKT9", "Date": "2025-09-30", "Class I": 26.50 },
+        { "PerformanceId": "0P0001UKTH", "Date": "2025-09-30", "Class S": 26.48 },
+        { "PerformanceId": "0P0001UKTJ", "Date": "2025-09-30", "Class D": 26.45 },
+        { "PerformanceId": "0P0001UKT9", "Date": "2025-10-31", "Class I": 26.75 },
+        { "PerformanceId": "0P0001UKTH", "Date": "2025-10-31", "Class S": 26.72 },
+        { "PerformanceId": "0P0001UKTJ", "Date": "2025-10-31", "Class D": 26.70 },
+        { "PerformanceId": "0P0001UKT9", "Date": "2025-11-30", "Class I": 27.00 },
+        { "PerformanceId": "0P0001UKTH", "Date": "2025-11-30", "Class S": 26.98 },
+        { "PerformanceId": "0P0001UKTJ", "Date": "2025-11-30", "Class D": 26.95 },
+        { "PerformanceId": "0P0001UKT9", "Date": "2025-12-31", "Class I": 27.35 },
+        { "PerformanceId": "0P0001UKTH", "Date": "2025-12-31", "Class S": 27.32 },
+        { "PerformanceId": "0P0001UKTJ", "Date": "2025-12-31", "Class D": 27.30 },
+        { "PerformanceId": "0P0001UKT9", "Date": "2026-01-31", "Class I": 27.68 },
+        { "PerformanceId": "0P0001UKTH", "Date": "2026-01-31", "Class S": 27.68 },
+        { "PerformanceId": "0P0001UKTJ", "Date": "2026-01-31", "Class D": 27.68 }
       ],
       "Dividend": [
-        {
-          "PerformanceId": "0P0001UKT9",
-          "Date": "2026-01-31",
-          "Class I": 4.0
-        },
-        {
-          "PerformanceId": "0P0001UKTH",
-          "Date": "2026-01-31",
-          "Class S": 5.0
-        },
-        {
-          "PerformanceId": "0P0001UKTJ",
-          "Date": "2026-01-31",
-          "Class D": 6.0
-        }
+        { "PerformanceId": "0P0001UKT9", "Date": "2025-09-30", "Class I": 3.8 },
+        { "PerformanceId": "0P0001UKTH", "Date": "2025-09-30", "Class S": 4.8 },
+        { "PerformanceId": "0P0001UKTJ", "Date": "2025-09-30", "Class D": 5.7 },
+        { "PerformanceId": "0P0001UKT9", "Date": "2025-10-31", "Class I": 3.9 },
+        { "PerformanceId": "0P0001UKTH", "Date": "2025-10-31", "Class S": 4.9 },
+        { "PerformanceId": "0P0001UKTJ", "Date": "2025-10-31", "Class D": 5.8 },
+        { "PerformanceId": "0P0001UKT9", "Date": "2025-11-30", "Class I": 4.0 },
+        { "PerformanceId": "0P0001UKTH", "Date": "2025-11-30", "Class S": 4.9 },
+        { "PerformanceId": "0P0001UKTJ", "Date": "2025-11-30", "Class D": 5.9 },
+        { "PerformanceId": "0P0001UKT9", "Date": "2025-12-31", "Class I": 4.0 },
+        { "PerformanceId": "0P0001UKTH", "Date": "2025-12-31", "Class S": 5.0 },
+        { "PerformanceId": "0P0001UKTJ", "Date": "2025-12-31", "Class D": 6.0 },
+        { "PerformanceId": "0P0001UKT9", "Date": "2026-01-31", "Class I": 4.0 },
+        { "PerformanceId": "0P0001UKTH", "Date": "2026-01-31", "Class S": 5.0 },
+        { "PerformanceId": "0P0001UKTJ", "Date": "2026-01-31", "Class D": 6.0 }
       ],
       "CapitalGain": [
-        {
-          "PerformanceId": "0P0001UKT9",
-          "Date": "2026-01-31",
-          "Class I": 11.0
-        },
-        {
-          "PerformanceId": "0P0001UKTH",
-          "Date": "2026-01-31",
-          "Class S": 22.0
-        },
-        {
-          "PerformanceId": "0P0001UKTJ",
-          "Date": "2026-01-31",
-          "Class D": 33.0
-        }
+        { "PerformanceId": "0P0001UKT9", "Date": "2025-09-30", "Class I": 9.0 },
+        { "PerformanceId": "0P0001UKTH", "Date": "2025-09-30", "Class S": 19.0 },
+        { "PerformanceId": "0P0001UKTJ", "Date": "2025-09-30", "Class D": 29.0 },
+        { "PerformanceId": "0P0001UKT9", "Date": "2025-10-31", "Class I": 9.5 },
+        { "PerformanceId": "0P0001UKTH", "Date": "2025-10-31", "Class S": 19.5 },
+        { "PerformanceId": "0P0001UKTJ", "Date": "2025-10-31", "Class D": 30.0 },
+        { "PerformanceId": "0P0001UKT9", "Date": "2025-11-30", "Class I": 10.0 },
+        { "PerformanceId": "0P0001UKTH", "Date": "2025-11-30", "Class S": 20.5 },
+        { "PerformanceId": "0P0001UKTJ", "Date": "2025-11-30", "Class D": 31.0 },
+        { "PerformanceId": "0P0001UKT9", "Date": "2025-12-31", "Class I": 10.5 },
+        { "PerformanceId": "0P0001UKTH", "Date": "2025-12-31", "Class S": 21.0 },
+        { "PerformanceId": "0P0001UKTJ", "Date": "2025-12-31", "Class D": 32.0 },
+        { "PerformanceId": "0P0001UKT9", "Date": "2026-01-31", "Class I": 11.0 },
+        { "PerformanceId": "0P0001UKTH", "Date": "2026-01-31", "Class S": 22.0 },
+        { "PerformanceId": "0P0001UKTJ", "Date": "2026-01-31", "Class D": 33.0 }
       ],
       "ClassTNA": [
-        {
-          "PerformanceId": "0P0001UKT9",
-          "Date": "2026-01-31",
-          "Class I": 10600000000.0
-        },
-        {
-          "PerformanceId": "0P0001UKTH",
-          "Date": "2026-01-31",
-          "Class S": 10600000002.0
-        },
-        {
-          "PerformanceId": "0P0001UKTJ",
-          "Date": "2026-01-31",
-          "Class D": 10600000003.0
-        }
+        { "PerformanceId": "0P0001UKT9", "Date": "2025-09-30", "Class I": 10200000000.0 },
+        { "PerformanceId": "0P0001UKTH", "Date": "2025-09-30", "Class S": 10200000002.0 },
+        { "PerformanceId": "0P0001UKTJ", "Date": "2025-09-30", "Class D": 10200000003.0 },
+        { "PerformanceId": "0P0001UKT9", "Date": "2025-10-31", "Class I": 10300000000.0 },
+        { "PerformanceId": "0P0001UKTH", "Date": "2025-10-31", "Class S": 10300000002.0 },
+        { "PerformanceId": "0P0001UKTJ", "Date": "2025-10-31", "Class D": 10300000003.0 },
+        { "PerformanceId": "0P0001UKT9", "Date": "2025-11-30", "Class I": 10400000000.0 },
+        { "PerformanceId": "0P0001UKTH", "Date": "2025-11-30", "Class S": 10400000002.0 },
+        { "PerformanceId": "0P0001UKTJ", "Date": "2025-11-30", "Class D": 10400000003.0 },
+        { "PerformanceId": "0P0001UKT9", "Date": "2025-12-31", "Class I": 10500000000.0 },
+        { "PerformanceId": "0P0001UKTH", "Date": "2025-12-31", "Class S": 10500000002.0 },
+        { "PerformanceId": "0P0001UKTJ", "Date": "2025-12-31", "Class D": 10500000003.0 },
+        { "PerformanceId": "0P0001UKT9", "Date": "2026-01-31", "Class I": 10600000000.0 },
+        { "PerformanceId": "0P0001UKTH", "Date": "2026-01-31", "Class S": 10600000002.0 },
+        { "PerformanceId": "0P0001UKTJ", "Date": "2026-01-31", "Class D": 10600000003.0 }
       ],
       "DailyDividend": [
-        {
-          "PerformanceId": "0P0001UKT9",
-          "Date": "2026-01-31",
-          "Class I": 1.0
-        },
-        {
-          "PerformanceId": "0P0001UKTH",
-          "Date": "2026-01-31",
-          "Class S": 2.0
-        },
-        {
-          "PerformanceId": "0P0001UKTJ",
-          "Date": "2026-01-31",
-          "Class D": 3.0
-        }
+        { "PerformanceId": "0P0001UKT9", "Date": "2025-09-30", "Class I": 0.8 },
+        { "PerformanceId": "0P0001UKTH", "Date": "2025-09-30", "Class S": 1.6 },
+        { "PerformanceId": "0P0001UKTJ", "Date": "2025-09-30", "Class D": 2.4 },
+        { "PerformanceId": "0P0001UKT9", "Date": "2025-10-31", "Class I": 0.8 },
+        { "PerformanceId": "0P0001UKTH", "Date": "2025-10-31", "Class S": 1.7 },
+        { "PerformanceId": "0P0001UKTJ", "Date": "2025-10-31", "Class D": 2.6 },
+        { "PerformanceId": "0P0001UKT9", "Date": "2025-11-30", "Class I": 0.9 },
+        { "PerformanceId": "0P0001UKTH", "Date": "2025-11-30", "Class S": 1.8 },
+        { "PerformanceId": "0P0001UKTJ", "Date": "2025-11-30", "Class D": 2.7 },
+        { "PerformanceId": "0P0001UKT9", "Date": "2025-12-31", "Class I": 0.9 },
+        { "PerformanceId": "0P0001UKTH", "Date": "2025-12-31", "Class S": 1.9 },
+        { "PerformanceId": "0P0001UKTJ", "Date": "2025-12-31", "Class D": 2.8 },
+        { "PerformanceId": "0P0001UKT9", "Date": "2026-01-31", "Class I": 1.0 },
+        { "PerformanceId": "0P0001UKTH", "Date": "2026-01-31", "Class S": 2.0 },
+        { "PerformanceId": "0P0001UKTJ", "Date": "2026-01-31", "Class D": 3.0 }
       ]
     }
   },
